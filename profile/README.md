@@ -12,6 +12,14 @@
 </p>
 <p align="center">
 <a href="https://github.com/Canessa-System-Labs/cetus"><img src="assets/card-cetus.svg" width="49%" alt="Cetus showcase: In testing"></a>
+<a href="https://github.com/Canessa-System-Labs/aletheion"><img src="assets/card-aletheion.svg" width="49%" alt="Aletheion showcase: Research prototype"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Canessa-System-Labs/nomic"><img src="assets/card-nomic.svg" width="49%" alt="Nomic showcase: In development"></a>
+<a href="https://github.com/Canessa-System-Labs/phonosphere"><img src="assets/card-phonosphere.svg" width="49%" alt="Phonosphere Studio showcase: Prototype"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Canessa-System-Labs/omniscribe"><img src="assets/card-omniscribe.svg" width="49%" alt="OmniScribe showcase: Prototype deployed"></a>
 </p>
 
 <p align="center">Implementation stays private. Each showcase presents the problem, the idea, how it works and the evidence, released through a reviewed gate.</p>
