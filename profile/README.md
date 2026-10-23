@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Canessa-System-Labs/cetus"><img src="assets/card-cetus.svg" width="49%" alt="Cetus showcase: In testing"></a>
-<a href="https://github.com/Canessa-System-Labs/aletheion"><img src="assets/card-aletheion.svg" width="49%" alt="Aletheion showcase: Research prototype"></a>
+<a href="https://github.com/Canessa-System-Labs/aletheion"><img src="assets/card-aletheion.svg" width="49%" alt="Aletheion showcase: Private release · research"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Canessa-System-Labs/nomic"><img src="assets/card-nomic.svg" width="49%" alt="Nomic showcase: In development"></a>
