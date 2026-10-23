@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="600" height="340" role="img" aria-label="Nomic: Every month, accounted for. Status In development.">
 <title>Nomic: Every month, accounted for. Status In development.</title>
-<style>.mk-nomic .mk-bars{stroke:#E6E9F5}.mk-nomic .mk-halo{fill:#FFFFFF}.halo{transform-origin:110px 120px;animation:h 5s ease-in-out infinite}@keyframes h{0%,100%{opacity:.35;transform:scale(.92)}50%{opacity:.8;transform:scale(1.05)}}.go{animation:g 2.4s ease-in-out infinite}@keyframes g{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<style>.mk-nomic .mk-bars{stroke:#E6E9F5}.mk-nomic .mk-halo{fill:#FFFFFF}.halo{transform-origin:110px 120px;animation:h 5s ease-in-out infinite}@keyframes h{0%,100%{opacity:.35;transform:scale(.92)}50%{opacity:.8;transform:scale(1.05)}}.go{animation:g 2.4s ease-in-out infinite}@keyframes g{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){*{animation-duration:1ms!important;animation-delay:0s!important;animation-iteration-count:1!important;animation-fill-mode:forwards!important}}</style>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f2125"/><stop offset="1" stop-color="#18191c"/></linearGradient>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
