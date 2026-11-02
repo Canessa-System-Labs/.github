@@ -11,23 +11,23 @@
 <a href="https://github.com/Canessa-System-Labs/exedrion"><img src="assets/card-exedrion.svg" width="49%" alt="Exedrion showcase: Private release"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Canessa-System-Labs/cetus"><img src="assets/card-cetus.svg" width="49%" alt="Cetus showcase: In testing"></a>
+<a href="https://github.com/Canessa-System-Labs/cetus"><img src="assets/card-cetus.svg" width="49%" alt="Cetus showcase: Private release"></a>
 <a href="https://github.com/Canessa-System-Labs/tabularium"><img src="assets/card-tabularium.svg" width="49%" alt="Tabularium showcase: Live · in daily use"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Canessa-System-Labs/aletheion"><img src="assets/card-aletheion.svg" width="49%" alt="Aletheion showcase: Private release · research"></a>
-<a href="https://github.com/Canessa-System-Labs/nomic"><img src="assets/card-nomic.svg" width="49%" alt="Nomic showcase: In development"></a>
+<a href="https://github.com/Canessa-System-Labs/nomic"><img src="assets/card-nomic.svg" width="49%" alt="Nomic showcase: Coming soon"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Canessa-System-Labs/phonosphere"><img src="assets/card-phonosphere.svg" width="49%" alt="Phonosphere Studio showcase: Prototype"></a>
-<a href="https://github.com/Canessa-System-Labs/omniscribe"><img src="assets/card-omniscribe.svg" width="49%" alt="OmniScribe showcase: On hold · prototype"></a>
+<a href="https://github.com/Canessa-System-Labs/phonosphere"><img src="assets/card-phonosphere.svg" width="49%" alt="Phonosphere Studio showcase: Coming soon"></a>
+<a href="https://github.com/Canessa-System-Labs/omniscribe"><img src="assets/card-omniscribe.svg" width="49%" alt="OmniScribe showcase: Coming soon"></a>
 </p>
 
 <p align="center">Implementation stays private. Each showcase presents the problem, the idea, how it works and the evidence, released through a reviewed gate.</p>
 
-<img src="assets/ch-solutions.svg" width="100%" alt="02 Every solution: where each one truly stands">
+<img src="assets/ch-solutions.svg" width="100%" alt="02 Every solution: released, or coming soon">
 
-<a href="https://canessasyslabs.com/#projects"><img src="assets/status.svg" width="100%" alt="Status board of every solution and its development ladder"></a>
+<a href="https://canessasyslabs.com/#projects"><img src="assets/status.svg" width="100%" alt="Every solution: Exedrion: Private release; Cetus: Private release; Tabularium: Live · in daily use; Aletheion: Private release · research; Nomic: Coming soon; Phonosphere Studio: Coming soon; Digital Career Portfolio: Live · this site; OmniScribe: Coming soon"></a>
 
 <p align="center"><a href="https://canessasyslabs.com"><img src="assets/signoff.svg" width="100%" alt="Canessa System Labs. Build in private. Present with intent."></a></p>
 
