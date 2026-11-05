@@ -29,6 +29,12 @@
 
 <a href="https://canessasyslabs.com/#projects"><img src="assets/status.svg" width="100%" alt="Every solution: Exedrion: Private release; Cetus: Private release; Tabularium: Live · in daily use; Aletheion: Private release · research; Nomic: Coming soon; Phonosphere Studio: Coming soon; Digital Career Portfolio: Live · this site; OmniScribe: Coming soon"></a>
 
+<img src="assets/ch-community.svg" width="100%" alt="03 Community PlugIns: free and public, install in ChatGPT, Codex or Claude">
+
+<p align="center"><a href="https://github.com/Canessa-System-Labs/community-plugins"><img src="assets/card-community.svg" width="49%" alt="Morpheion Community: turn ideas and plans into print-ready documents. Version 0.1.0, public."></a></p>
+
+<p align="center">Free for noncommercial use. Add the marketplace once, then install: <code>/plugin marketplace add Canessa-System-Labs/community-plugins</code> · <a href="https://github.com/Canessa-System-Labs/community-plugins#installation-manual">Installation manual</a></p>
+
 <p align="center"><a href="https://canessasyslabs.com"><img src="assets/signoff.svg" width="100%" alt="Canessa System Labs. Build in private. Present with intent."></a></p>
 
 <p align="center"><sub>© Canessa System Labs. All rights reserved. This repository presents the work; it does not license it. No part of its text, images or design may be reused without written permission.</sub></p>
